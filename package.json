@@ -4,7 +4,7 @@
   "description": "Zoom clone coding with NodeJS, WebSocket and Oauth2 implementation",
   "main": "index.js",
   "scripts": {
-    "dev" : "nodemon"
+    "dev": "nodemon"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,8 @@
   "homepage": "https://github.com/Kal-MH/Zoom_Clone_with_OAuth2#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "pug": "^3.0.2"
+    "pug": "^3.0.2",
+    "ws": "^8.5.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.6",
